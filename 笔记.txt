@@ -1,0 +1,10 @@
+2017年4月29日15:09:04
+1.实线（solid）和虚线（dashed）
+2.text-align 和 vertical-align 属性设置表格中文本的对齐方式
+  vertical-align:bottom；text-align:right;
+3.border 简写属性在一个声明设置所有的边框属性。
+可能的值--
+border-width
+border-style
+border-color
+4.<input name="button" type="button" onClick="rec()" value="点击我，弹出对话框" />
